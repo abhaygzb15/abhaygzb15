@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygzb15&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygzb15" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Data Science basics**
+- 🌱 Hey! I'm Abhay, a second-year student who's really into coding. I'm currently digging deep into Data Analysis, trying to learn as much as I can. I'm super curious about AI and ML too, and I can't wait to explore them more. When I'm not studying, you'll probably find me on the cricket field. I love the game and always try to improve my skills. I'm all about learning and trying new things. Let's connect and see where the journey takes us!
 
 - 📫 How to reach me **abhaygzb15@gmail.com**
 
