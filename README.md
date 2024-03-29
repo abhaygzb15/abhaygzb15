@@ -20,6 +20,7 @@
 <img src="https://camo.githubusercontent.com/55a55cebad6360bda8bca520c61e0e195dc7ee413bf9982f1ba86cab496f2388/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="python" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="python" width="50" height="50"/>
 <img src="https://miro.medium.com/v2/resize:fit:481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="python" width="50" height="50"/>
+<img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="50" height="50"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygzb15&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
