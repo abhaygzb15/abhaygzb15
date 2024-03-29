@@ -21,6 +21,8 @@
 <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" alt="python" width="50" height="50"/>
 <img src="https://miro.medium.com/v2/resize:fit:481/1*n_ms1q5YoHAQXXUIfeADKQ.png" alt="python" width="50" height="50"/>
 <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="50" height="50"/>
+<img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="50" height="50"/>
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" width="50" height="50"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygzb15&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
