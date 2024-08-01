@@ -21,6 +21,7 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.robotics.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=pa9SocWvooHp&format=png" alt="robotics" width="40" height="40"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygzb15&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
