@@ -18,9 +18,9 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_%282018%29.svg" alt="excel" width="40" height="40"/> </a>
-<a href="https://www.robotics.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Robotics_Logo.svg" alt="robotics" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=UECmBSgBOvPT&format=png" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.robotics.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=80&id=pa9SocWvooHp&format=png" alt="robotics" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" alt="powerbi" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygzb15&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
