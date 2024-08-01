@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Pawar</h1>
 <h3 align="center">A passionate and dedicated team player</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<br> <!-- Adds space between the image and text -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygzb15&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygzb15" /> </p>
 
@@ -16,6 +18,10 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_%282018%29.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://www.robotics.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Robotics_Logo.svg" alt="robotics" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaygzb15&show_icons=true&locale=en&layout=compact" alt="abhaygzb15" /></p>
 
