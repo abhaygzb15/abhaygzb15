@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygzb15&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygzb15" /> </p>
 
-- 🌱 I am a passionate third-year B.Tech student at the University of Delhi, specializing in Information Technology and Mathematical Innovation. With a strong foundation in programming and data analysis, I am eager to tackle real-world challenges and contribute to innovative solutions. I thrive in collaborative environments and am always looking to expand my knowledge in emerging technologies, particularly in AI and machine learning. Let's connect and explore opportunities to drive technological advancements together!
+- 🌱 I am a passionate final-year B.Tech student at the University of Delhi, specializing in Information Technology and Mathematical Innovation. With a strong foundation in programming and data analysis, I am eager to tackle real-world challenges and contribute to innovative solutions. I thrive in collaborative environments and am always looking to expand my knowledge in emerging technologies, particularly in AI and machine learning. Let's connect and explore opportunities to drive technological advancements together!
 
 - 📫 How to reach me **abhaygzb15@gmail.com**
 
